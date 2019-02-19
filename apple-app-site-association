@@ -5,7 +5,11 @@
       {
         "appID": "J77L9EFZEW.com.oleygen.loc",
         "paths": [
-          "*"
+          "/templates",
+          "/createShake",
+          "/shakes",
+          "/gamification",
+          "/settings"
         ]
       }
     ]
